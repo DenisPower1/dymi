@@ -7,7 +7,6 @@
  * Released under the MIT lincense.
  */
 
-
  (function(){
 
  //Some helpers function.
