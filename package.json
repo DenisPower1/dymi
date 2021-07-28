@@ -1,0 +1,10 @@
+{
+  "name": "dymi",
+  "version": "1.0.0",
+  "description": "The Dynamic CSS loader library for Inter.",
+  "author": "Denis Power",
+  "license": "MIT",
+  "jsdelivr": "dymi.min.js",
+  "repository": "github:DenisPower1/dymi",
+   "homepage": "http://interjs.epizy.com/libs/dymi",
+  }
